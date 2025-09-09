@@ -162,4 +162,4 @@ print(f"Predição de nota IMDB: {predicao:.2f}")
 
 ## Autor
 
-Projeto desenvolvido por **\[Lucas Sugahara Lima]**, como parte do processo seletivo de **Cientista de Dados – Lighthouse**.
+Projeto desenvolvido por **Lucas Sugahara Lima**, como parte do processo seletivo de **Cientista de Dados – Lighthouse**.
