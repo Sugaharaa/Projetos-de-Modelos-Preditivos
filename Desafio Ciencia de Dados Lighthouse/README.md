@@ -55,7 +55,7 @@ Foram testados os seguintes algoritmos:
 * Lasso
 * CatBoost Regressor (modelo final escolhido)
 
-📌 O **CatBoost** apresentou desempenho superior:
+O **CatBoost** apresentou desempenho superior:
 
 * R² ≈ **0.54** (Cross-Validation média)
 * RMSE ≈ **0.18**
